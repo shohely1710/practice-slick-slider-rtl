@@ -1,0 +1,29 @@
+html, body{
+    background-color: #e74c3c;
+    padding: 10px;
+  }
+  .wrapper{
+    padding-top: 20px;
+    text-align:center;
+    width: 200px;
+    display:inline-block;
+    margin: 0px 100px;
+  }
+  h2{
+    font-family:sans-serif;
+    color:#fff;
+  }
+  .carousel{
+    width:100%;
+    margin:0px auto;
+  }
+  /* .slick-slide{
+    margin:10px;
+  }
+  .slick-slide img{
+    border: 2px solid #fff;
+  }
+  
+  .slick-loading{
+    background:red;
+  } */
